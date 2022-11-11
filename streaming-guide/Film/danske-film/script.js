@@ -104,7 +104,7 @@ var nextPage = 2;
 var prevPage = 3;
 var lastUrl = '';
 var totalPages = 100;
-
+//100 pages
 //Genre variablerne samt fuinktionerne som gør at genre knapperne virker
 var selectedGenre = []
 setGenre();

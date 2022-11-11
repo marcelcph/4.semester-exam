@@ -41,7 +41,7 @@ const genres = [
   },
   {
     "id": 10751,
-    "name": "Familie"
+    "name": "Family"
   },
   {
     "id": 14,
